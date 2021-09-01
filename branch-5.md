@@ -7,3 +7,5 @@ local commit 1
 local commit 2
 
 branch-10 local commit 1
+
+branch-11 local commit 1
