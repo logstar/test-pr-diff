@@ -7,3 +7,5 @@
 `branch-4` change 1.
 
 `branch-6` local commit 1
+
+branch-9 local commit 1
