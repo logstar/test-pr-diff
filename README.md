@@ -9,3 +9,5 @@
 `branch-6` local commit 1
 
 branch-9 local commit 1
+
+branch-9 click commit 1
